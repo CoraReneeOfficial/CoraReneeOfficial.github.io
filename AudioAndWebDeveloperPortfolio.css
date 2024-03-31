@@ -115,33 +115,6 @@ footer p {
     text-align: center;
 }
 
-.form-group {
-    margin-bottom: 15px;
-}
-
-.form-group label {
-    display: block;
-    margin-bottom: 5px;
-}
-
-.form-group input[type="text"], 
-.form-group input[type="email"],
-.form-group textarea {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid yellowgreen;
-    border-radius: 5px;
-    box-sizing: border-box;
-}
-
-button[type="submit"] {
-    background-color: yellowgreen;
-    color: black;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
 .contactHead {
     background-color: yellowgreen;
     margin: 0%, 30%, 0%, 30%;
