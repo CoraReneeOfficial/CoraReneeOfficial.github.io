@@ -109,9 +109,9 @@ footer p {
     border-width: 5px;
 }
 .container {
-    margin: auto;
-    padding: 20px;
-    border: 1px solid yellowgreen;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 5px solid yellowgreen;
     border-radius: 5px;
     text-align: center;
 }
