@@ -33,6 +33,7 @@ body {
 #navigation {
     margin-left: 30%;
     margin-right: 30%;
+    margin: auto;
     text-align: center;
     background-color: black;
     border-style: solid;
