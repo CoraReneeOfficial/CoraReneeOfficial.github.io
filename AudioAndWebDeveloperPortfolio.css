@@ -93,6 +93,7 @@ footer p {
     background-color: black;
     margin-left: 20%;
     margin-right: 20%;
+    margin: auto;
     border-style: groove;
     border-color: yellowgreen;
     border-width: 5px;
@@ -102,6 +103,7 @@ footer p {
     background-color: black;
     margin-left: 20%;
     margin-right: 20%;
+    margin: auto;
     border-style: groove;
     border-color: white;
     border-width: 5px;
