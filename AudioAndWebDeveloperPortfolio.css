@@ -110,6 +110,7 @@ footer p {
 .container {
     margin-left: 30%;
     margin-right: 30%;
+    margin: auto;
     border: 5px solid yellowgreen;
     border-radius: 5px;
     text-align: center;
@@ -121,10 +122,10 @@ footer p {
 }
 
 form {
-    border: #5f8513;
     text-align: center;
+    margin: auto;
 }
 fieldset {
-    border: #5f8513;
     text-align: center;
+    margin: auto;
 }
