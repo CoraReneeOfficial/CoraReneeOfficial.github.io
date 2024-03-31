@@ -49,8 +49,8 @@ body {
 .aboutMeHead {
     color: yellowgreen;
     background-color: black;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 20%;
+    margin-right: 20%;
     border-style: groove;
     border-color: white;
     border-width: 5px;
@@ -70,8 +70,8 @@ img {
     border-width: 10px;
 }
 footer p {
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
     border-style: groove;
     border-color: black;
 
@@ -79,8 +79,8 @@ footer p {
 .audioHead {
     color: yellowgreen;
     background-color: black;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 20%;
+    margin-right: 20%;
     border-style: groove;
     border-color: white;
     border-width: 5px;
@@ -91,8 +91,8 @@ footer p {
 .audioParagraph {
     color: white;
     background-color: black;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
     border-style: groove;
     border-color: yellowgreen;
     border-width: 5px;
@@ -100,8 +100,8 @@ footer p {
 .webHead {
     color: yellowgreen;
     background-color: black;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
     border-style: groove;
     border-color: white;
     border-width: 5px;
