@@ -109,8 +109,7 @@ footer p {
     border-width: 5px;
 }
 .container {
-    width: 500px;
-    margin: 50px auto;
+    margin: auto;
     padding: 20px;
     border: 1px solid yellowgreen;
     border-radius: 5px;
