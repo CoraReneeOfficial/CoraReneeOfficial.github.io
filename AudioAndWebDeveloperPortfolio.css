@@ -153,6 +153,6 @@ form {
     text-align: center;
 }
 fieldset {
-    border-style: hidden;
+    border: #5f8513;
     text-align: center;
 }
