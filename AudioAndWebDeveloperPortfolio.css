@@ -155,3 +155,16 @@ img {
     -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
     box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
 }
+
+div.box {
+    width: calc(100% - 40px); /* Responsive width with margins */
+    max-width: 1000px; /* Limit width on larger screens */
+    height: 30vh; /* Height relative to viewport height */
+} 
+  
+  @media (max-width: 768px) {
+    div.box {
+      width: 90%; 
+    }
+}
+  
