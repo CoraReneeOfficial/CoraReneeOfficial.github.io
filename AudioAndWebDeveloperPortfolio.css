@@ -101,9 +101,8 @@ footer p {
 .webHead {
     color: yellowgreen;
     background-color: black;
-    margin-left: 30%;
-    margin-right: 30%;
-    margin: auto;
+    margin-left: 20%;
+    margin-right: 20%;
     border-style: groove;
     border-color: white;
     border-width: 5px;
