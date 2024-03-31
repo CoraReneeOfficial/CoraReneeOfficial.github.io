@@ -152,3 +152,6 @@ form {
     border-style: hidden;
     text-align: center;
 }
+fieldset {
+    border-style: hidden;
+}
