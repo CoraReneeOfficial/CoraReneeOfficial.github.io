@@ -126,6 +126,7 @@ form {
     margin: auto;
 }
 fieldset {
+    border-style: hidden;
     text-align: center;
     margin: auto;
 }
