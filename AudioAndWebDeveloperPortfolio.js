@@ -11,7 +11,7 @@ formbutton("create", {
       name: "name",
       required: true,
       placeholder: "Name"
-    }
+    },
     { 
       type: "email", 
       label: "Email:", 
