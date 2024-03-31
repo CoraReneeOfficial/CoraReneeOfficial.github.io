@@ -112,6 +112,7 @@ footer p {
     padding: 20px;
     border: 1px solid yellowgreen;
     border-radius: 5px;
+    text-align: center;
 }
 
 .form-group {
