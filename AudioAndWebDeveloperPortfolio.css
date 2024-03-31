@@ -126,7 +126,6 @@ footer p {
 .container {
     margin-left: 30%;
     margin-right: 30%;
-    margin: auto;
     border: 5px solid yellowgreen;
     border-radius: 5px;
     text-align: center;
@@ -135,7 +134,6 @@ footer p {
 .contactHead {
     background-color: rgb(0, 0, 0);
     color: white;
-    margin: 0%, 30%, 0%, 30%;
     text-shadow: 0 0 5px #000000, 0 0 10px #000000, 0 0 15px #000000, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
 }
 
