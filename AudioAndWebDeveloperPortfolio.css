@@ -31,6 +31,8 @@ body {
     text-align: center;
 }
 #navigation {
+    margin-left: 30%;
+    margin-right: 30%;
     text-align: center;
     background-color: black;
     border-style: solid;
