@@ -5,6 +5,13 @@ formbutton("create", {
   action: "https://formspree.io/f/xzbnjjvl",
   title: "How can we help?",
   fields: [
+    {
+      type: "text",
+      label: "name",
+      name: "name",
+      required: true,
+      placeholder: "Name"
+    }
     { 
       type: "email", 
       label: "Email:", 
