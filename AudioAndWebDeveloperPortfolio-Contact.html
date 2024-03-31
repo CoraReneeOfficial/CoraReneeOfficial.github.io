@@ -42,27 +42,18 @@
 
         <div class="container">
             <h1 class="contactHead">Contact Us</h1>
-            
-            
-    <form action="https://formspree.io/f/xzbnjjvl" method="POST">
-    <label for="name">
-        Name:
-    <input type="text" name="name" placeholder="FirstName LastName">
-    </label>
-    <br>
-    <label>
-        E-mail:
-    <input type="email" name="email" placeholder="email@email.com">
-    </label>
-    <br>
-    <label for="message">
-        Message:
-    <textarea name="message" placeholder="Write Your Message Here!"></textarea>
-    </label>
-<!-- your other form fields go here -->
-    <br>
-    <button type="submit">Submit</button>
-    </form>
+            <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xzbnjjvl" method="post">
+                <fieldset id="fs-frm-inputs">
+                <label for="full-name">Full Name:</label>
+                <input type="text" name="name" id="full-name" placeholder="First and Last Name" required="">
+                <label for="email-address">Email Address:</label>
+                <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
+                <label for="message">Message:</label>
+                <textarea rows="5" name="message" id="message" placeholder="Message Goes Here" required=""></textarea>
+                <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+                </fieldset>
+                <input type="submit" value="Submit">
+            </form>
         </div>
         
     </main>
