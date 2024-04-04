@@ -188,7 +188,22 @@ label {
 }
 
 a i {
-    font-size: xx-large;
+    font-size: xxx-large;
     margin: 0 10px;
     color: black;
+    text-shadow: 
+            -1px -1px 0px yellowgreen,  
+            1px -1px 0px yellowgreen,
+            -1px 1px 0px yellowgreen,
+             1px 1px 0px yellowgreen; 
+}
+
+nav h2 {
+        color: black; /* Adjust as needed */
+        font-size: xx-large;
+        text-shadow: 
+            -1px -1px 10px yellowgreen,  
+            1px -1px 10px yellowgreen,
+            -1px 1px 10px yellowgreen,
+             1px 1px 10px yellowgreen; 
 }
