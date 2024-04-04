@@ -187,3 +187,8 @@ label {
     background-color: black;
 }
 
+a i {
+    font-size: xx-large;
+    margin: 0 10px;
+    color: black;
+}
