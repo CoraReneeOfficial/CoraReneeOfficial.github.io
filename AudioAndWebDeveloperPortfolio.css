@@ -215,13 +215,3 @@ nav h2 {
     }
 }
 
-nav button {
-    width: auto;
-}
-
-@media (max-width: 768px) {
-    nav button {
-        width: 100%;
-        
-    }
-}
