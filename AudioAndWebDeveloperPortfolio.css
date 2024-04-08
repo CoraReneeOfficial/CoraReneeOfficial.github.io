@@ -215,4 +215,13 @@ nav h2 {
     }
 }
 
-
+.musicHead {
+    font-size: xx-large;
+    background-color: black;
+    text-shadow: 
+            -1px -1px 10px black,  
+            1px -1px 10px yellowgreen,
+            -1px 1px 10px yellowgreen,
+             1px 1px 10px yellowgreen;
+    color: white;
+}
